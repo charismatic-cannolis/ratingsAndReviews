@@ -8,4 +8,9 @@ client/dist/*
 !index.html
 !stylesheet.css
 !client/dist/favicon/
+characteristic_reviews.csv
+characteristics.csv
+reviews_photos.csv
+reviews.csv
+
 
